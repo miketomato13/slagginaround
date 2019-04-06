@@ -1,0 +1,18 @@
+body {
+  background-image: url("eduardo.jpg");
+  background-color: #cccccc;
+  background-position: center;
+  margin: auto;
+  background-repeat: repeat;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 72px;
+  font-style: italic;
+  margin-top: 15rem;
+  text-shadow: 4px 4px #666666;
+}

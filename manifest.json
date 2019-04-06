@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "manifest_version": 2,
+  "name":"SlagginAround",
+  "description":"Pictures of Eduardo in your browser",
+  "author":"Mike Tomato",
+  "browser_action": {
+    "default_icon":"eduardo.jpg",
+    "default_title":"Hi I'm Eddy"
+  },
+  "chrome_url_overrides": {
+    "newtab":"newtab.html"
+  },
+  "permissions":["activeTab"]
+}
